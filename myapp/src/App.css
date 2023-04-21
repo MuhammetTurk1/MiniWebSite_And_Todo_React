@@ -1,0 +1,15 @@
+#headerContainer{
+    display: flex;
+    justify-content: space-between;
+}
+ul,li{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.taskItems li{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
